@@ -1,1 +1,1 @@
-Problem Statement: Pull any video from the internet. Generate a transcript using a hugging face llm or any other technique which is convenient for you. Extract the transcript between any two timestamps and summarize it to look more suitable for display on a powerpoint slide
+Problem Statement: Pull any video from the internet. Generate a transcript using a hugging face llm or any other technique which is convenient. Extract the transcript between any two timestamps and summarize it to look more suitable for display as a bullet point/short sentence on a powerpoint slide.
